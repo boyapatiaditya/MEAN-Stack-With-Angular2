@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/boyapatiaditya/MEAN-Stack-With-Angular2#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.4.2"
   }
 }
